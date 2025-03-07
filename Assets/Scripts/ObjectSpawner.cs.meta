@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6f5daf72c3ba9c243a7699486197fd01
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - carameloNaranja: {fileID: 6138547802140285973, guid: 6d1d1cc06d61cc348a5d4ea184eecb63, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
